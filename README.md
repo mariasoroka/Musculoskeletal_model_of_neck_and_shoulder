@@ -7,7 +7,7 @@ shoulder traumas affect neck muscles. These insights could help to treat patient
 This model was built as a union of two already existing models: [[2]](#2) and [[3]](#3). Then Motion Capture data were collected for different 
 shoulder movements and was used to scale the generic model.
 
-A detailed description of two models (generic and scaled) and of all the supplementary materials is available in documentation (in Russian) included in this repository.
+A detailed description of two models (generic and scaled) and of all the supplementary materials is available in [documentation](./documentation.pdf) (in Russian) included in this repository.
 
 The work was conducted under the supervision of [Victoria Salamatova](https://www.researchgate.net/profile/Victoria-Salamatova-2) in Marchuk Institute of Numerical
 Mathematics of the Russian Academy of Sciences.
